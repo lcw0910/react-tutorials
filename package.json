@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --hot --host react.yicheolwon.xyz"
+    "start": "webpack-dev-server --hot --host localhost"
   },
   "author": "cwlee02",
   "license": "ISC",
